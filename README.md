@@ -29,5 +29,5 @@ A full-stack web application built with the **MERN stack** (MongoDB, Express.js,
 ### 📁 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/car-rental-management-system.git
+git clone https://github.com/FEBEN-G/Car-Rental-Management-System-MERN.git
 cd car-rental-management-system
